@@ -19,6 +19,10 @@
   float: right;
 }
 
-.strong-list {
+.text-info {
+  font-weight: bolder;
+}
 
+.blue {
+  color: red;
 }
